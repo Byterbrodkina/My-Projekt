@@ -1,0 +1,83 @@
+card img {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
+.card-title {
+  font-size: 16px;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 18px;
+  text-align: center;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0.28335084033613445) 0%,
+    rgba(9, 121, 92, 0.36458333333333337) 35%,
+    rgba(0, 212, 255, 0.10968137254901966) 76%
+  );
+  display: block;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 30px;
+  padding: 10px 0;
+  font-weight: 10px;
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+  max-width: 1100px;
+}
+
+.card {
+  border-radius: 35px;
+  height: 180px;
+}
+
+form {
+  font-size: x-large;
+  color: aquamarine;
+  position: relative;
+  top: -50px;
+  left: 20px;
+}
+
+.SEARCH {
+  color: rgb(3, 48, 17);
+  background-color: rgb(95, 235, 67);
+}
+
+h1 {
+  font-size: 32px;
+  text-align: left;
+  line-height: 50px;
+}
+
+h2 {
+  text-align: left;
+  line-height: 30px;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+.mainPic {
+  float: right;
+  position: relative;
+  top: -250px;
+  right: 100px;
+  width: 30%;
+}
+
+.row {
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
